@@ -1,0 +1,2 @@
+INSERT INTO ADMINDATA
+VALUES ('1000','SHAZAMA','FATHIMA','2020-','shazu@gmail.com','XYZ','TN','Chennai','60005','shazu@123','9802981713');

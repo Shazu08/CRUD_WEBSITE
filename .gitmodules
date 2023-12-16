@@ -1,0 +1,9 @@
+[submodule "project-dotnetwebapi"]
+	path = project-dotnetwebapi
+	url = https://github.com/capslock-inc/project-dotnetwebapi.git
+[submodule "angular-framework"]
+	path = angular-framework
+	url = https://github.com/capslock-inc/angular-framework.git
+[submodule "project-ExpressWebAPI"]
+	path = project-ExpressWebAPI
+	url = https://github.com/capslock-inc/project-ExpressWebAPI.git
